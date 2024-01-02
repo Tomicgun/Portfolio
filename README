@@ -1,1 +1,10 @@
 Welcome to my Portfolio, This repository contains personal projects and class projects and is a good repersentation of my skills and knowledge.
+
+Misc Projects is a collection of one of small programs that do specfic jobs, these were mostly done early in my programming career
+
+Wiki Recommendation V1-3 Are all the same project but take different approaches to it, starting from a simple starting point
+and moving up till version 3 which is an advanced application of Algorithms, graphs and serialization.
+
+C game is a simple game I made in C as a starting project for C programming. 
+
+Cash Simulator is a simulator of a cach in a pc using C. It finds tag, block off set and set bits, and simulate taking in addresses, warming up, hitting and misses. 
