@@ -7,4 +7,4 @@ and moving up till version 3 which is an advanced application of Algorithms, gra
 
 C game is a simple game I made in C as a starting project for C programming. 
 
-Cash Simulator is a simulator of a cach in a pc using C. It finds tag, block off set and set bits, and simulate taking in addresses, warming up, hitting and misses. 
+Cash Runner is a simulator of a cach in a pc using C. It finds tag, block off set and set bits, and simulate taking in addresses, warming up, hitting and misses. 
