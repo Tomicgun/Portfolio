@@ -1,12 +1,19 @@
-Welcome to my Portfolio, This repository contains personal projects and class projects and is a good repersentation of my skills and knowledge.
+Welcome to my Portfolio, This repository contains personal projects and class projects and is a good representation of my skills and knowledge in programming. 
 
-Misc Projects is a collection of one of small programs that do specfic jobs, these were mostly done early in my programming career
+Misc Projects is a collection of one of small programs that do specific jobs, these were mostly done early in my programming career
 
 Wiki Recommendation V1-3 Are all the same project but take different approaches to it, starting from a simple starting point
 and moving up till version 3 which is an advanced application of Algorithms, graphs and serialization.
 
-C game is a simple game I made in C as a starting project for C programming. 
+C game is a dungeon crawler game with the goal of cleaning or dirtying rooms till all entities in the dungeon are happy, or so unhappy that they leave.
 
-Earth Protector is a space invaiders style game made in LIBGDX framework it is based of a simple game I made in a class previously, but that I have now flushed out into a more complete game.
+Earth Protector is a space invaders style game made in LIBGDX framework it is based of a simple game I made in a class previously, but that I have now flushed out into a more complete game.
 
-Cash Runner is a simulator of a cach in a pc using C. It finds tag, block off set and set bits, and simulate taking in addresses, warming up, hitting and misses. 
+Cash Runner is a simulator of a catch in a pc using C. It finds tag, block off set and set bits, and simulate taking in addresses, warming up, hitting and misses. 
+
+Peg Solitaire solver is a multithreaded program using a recursive parallel search algorithm to find the optimal solution to any given peg solitaire board state. It used cluster computing to divide and conquer the search for the solution space especially on larger boards. 
+
+Factory Floor Solver is a multi-threaded program using a genetic algorithm to find the best layout of a factory floor given three shape types, four different types of machine and ten by ten floor space. Each machine has an affinity to other machines and the algorithm maximizes affinity score among all the machines present on the board.
+
+Chess API server is a two part project both built in go, the server code was a html server using gorilla mux router to take in, sanitize and process incoming requests for Chess.com puzzles. The client code would infinitely poll the chess API for a random chess puzzle, give it a unique ID and store it in an amazon dynamo db table. Both of these services were fully deployed with confucius integration on amazon cloud computing services including, EC2,ECR,ECS,Code build, Code pipeline, fargate and dynamo db. 
+
